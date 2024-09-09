@@ -3,3 +3,4 @@ pictures/
 __pycache__/
 .vscode/
 *.weights
+yolo/classweights.ipynb
