@@ -1,0 +1,5 @@
+back_up/
+pictures/
+__pycache__/
+.vscode/
+*.weights
